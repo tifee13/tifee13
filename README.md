@@ -13,7 +13,7 @@
   
 - 📫 How to reach me:
   
-  - Email - boluwatife.o-oluyomi@kibo.school
+  - Email - boluwatife.ooluyomi@gmail.com
   
   - Linkedin  -  https://www.linkedin.com/in/boluwatife-o-oluyomi/  
     
