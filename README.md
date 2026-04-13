@@ -11,9 +11,10 @@ I build scalable, user-centric web applications with a focus on performance and 
 
 🏆 Achievement: HNG Internship Finalist—contributed to high-traffic projects like the Official HNG Portal and Framez..
 
-📫 Let's Connect
-LinkedIn: linkedin.com/in/boluwatife-o-oluyomi
+📫 Let's Connect:
 
-Portfolio: tife-portfolio.vercel.app
+**Linkedin:** [Boluwatife O-Oluyomi](https://www.linkedin.com/in/boluwatife-o-oluyomi/)
+
+**Portfolio:** [My Portfolio](https://tife-portfolio.vercel.app)
 
 Email: boluwatife.ooluyomi@gmail.com
